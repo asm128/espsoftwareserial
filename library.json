@@ -23,8 +23,4 @@
     "platforms": [
         "espressif8266", "espressif32"
     ],
-    "dependencies":
-    {
-        "dok-net/ghostl": "^1.0.0"
-    }
 }
